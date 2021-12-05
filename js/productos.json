@@ -1,0 +1,27 @@
+{
+    "productos": [{
+            "nombre": "Jugos",
+            "imagen": "/img/jugo.jfif",
+            "descripcion": "Frutales y naturales",
+            "precio": 50
+        },
+        {
+            "nombre": "Agua Mineral",
+            "imagen": "./img/aguaMineral.jfif",
+            "descripcion": "Mineral de la Sierra",
+            "precio": 45
+        },
+        {
+            "nombre": "Cerveza",
+            "imagen": "./img/cerveza.jpg",
+            "descripcion": "Tirada artesanal",
+            "precio": 100
+        },
+        {
+            "nombre": "Gaseosa",
+            "imagen": "./img/gaseosa.jfif",
+            "descripcion": "Cola Gasificada",
+            "precio": 140
+        }
+    ]
+}

@@ -1,0 +1,106 @@
+* {
+    margin: 0;
+    padding: 0;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+div {
+    background-color: rgb(160, 212, 236);
+    border: solid;
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+body {
+    background-color: rgb(41, 180, 245);
+}
+
+.error {
+    color: crimson
+}
+
+button {
+    text-align: center;
+    margin-left: 35%;
+    margin-top: 25px;
+    font-size: x-large;
+}
+
+
+h1 {
+    color: blue;
+    text-align: center;
+    font-size: 85px;
+    background-position: center;
+    flex: content;
+}
+
+h2 {
+    color: blue;
+    text-align: center;
+    font-size: 35px;
+}
+
+h3 {
+    color: blue;
+    text-align: center;
+    font-size: 25px;
+}
+
+p {
+    color: blue;
+    text-align: center;
+    font-size: 20px;
+}
+
+img {
+    height: 150px;
+    width: 150px;
+    margin-bottom: 50px;
+}
+
+.productos__container--delete--button {
+
+    background-color: white;
+    width: 70%;
+    height: 10%;
+    border: solid 1px;
+    font-weight: 900;
+    float: left;
+}
+
+.header__img {
+    margin-bottom: auto;
+    text-align: center;
+
+}
+
+.main__card--img {
+    text-align: center;
+    background-position: center;
+}
+
+.productos__container {
+    text-align: center;
+    background-position: center;
+    font-size: 38px;
+    margin-top: auto;
+    padding-left: auto;
+}
+
+.productos__container--precio {
+    font-size: 50px;
+    background-position: center;
+
+}
+
+.productos__container--nombre {
+    font-size: 47px;
+}
+
+.main__card--img {
+    margin-left: 220px;
+}
